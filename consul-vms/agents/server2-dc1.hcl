@@ -1,5 +1,5 @@
-# Copyright (c) HashiCorp, Inc.
-# Copyright (c) HashiCorp, Inc.
+# Copyright IBM Corp. 2021, 2024
+# Copyright IBM Corp. 2021, 2024
 # SPDX-License-Identifier: MPL-2.0
 
 # Full configuration options can be found at https://www.consul.io/docs/agent/config

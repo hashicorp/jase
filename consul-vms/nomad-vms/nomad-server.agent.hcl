@@ -1,4 +1,4 @@
-# Copyright (c) HashiCorp, Inc.
+# Copyright IBM Corp. 2021, 2024
 # SPDX-License-Identifier: BUSL-1.1
 
 # Full configuration options can be found at https://developer.hashicorp.com/nomad/docs/configuration
