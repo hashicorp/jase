@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright IBM Corp. 2021, 2026
+
 echo "==> Docker"
 
 echo "--> Adding keyserver"

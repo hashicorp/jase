@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 //--------------------------EMEA-SE_PLAYGROUND-2019-----------------------------------------
 # Using a single workspace:
 

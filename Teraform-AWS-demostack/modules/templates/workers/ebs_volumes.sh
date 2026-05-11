@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 echo "--> Configuring EBS mounts"
 
 export NOMAD_ADDR=https://localhost:4646

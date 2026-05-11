@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 /*
 data "http" "myipaddr" {
   url = "http://ipv4.icanhazip.com"

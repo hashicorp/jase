@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 resource "aws_alb" "consul" {
   name = "${var.namespace}-consul"
 

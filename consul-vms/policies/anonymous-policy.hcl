@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 cat <<EOT > /root/anonymous_policy.hcl
 agent_prefix "" {
   policy = "read"

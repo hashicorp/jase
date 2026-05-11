@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # deny everything for anonymous
   namespace_prefix "" {
     key_prefix "" {

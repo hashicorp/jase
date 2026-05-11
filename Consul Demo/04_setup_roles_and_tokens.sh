@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright IBM Corp. 2021, 2026
+
 
 export CONSUL_HTTP_TOKEN=`kubectl get secrets/consul-bootstrap-acl-token --template='{{.data.token | base64decode }}' -n consul`
 

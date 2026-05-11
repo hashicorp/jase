@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # this will create the node & register in consul ready  for the service to run on
 
 node_name = "client-dc1-alpha"

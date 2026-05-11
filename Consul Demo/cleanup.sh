@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright IBM Corp. 2021, 2026
+
 
 helm delete consul --namespace consul
 kubectl delete namespace consul

@@ -109,7 +109,7 @@ nomad --version
 ```
 ### nomad.hcl file - dont forget to create a nomad.hclic license file
 
-# Copyright (c) HashiCorp, Inc.
+# Copyright IBM Corp. 2021, 2026
 # SPDX-License-Identifier: BUSL-1.1
 
 # Full configuration options can be found at https://developer.hashicorp.com/nomad/docs/configuration

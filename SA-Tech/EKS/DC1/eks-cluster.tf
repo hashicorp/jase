@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 module "eks" {
   source          = "terraform-aws-modules/eks/aws"
   version         = "17.24.0"

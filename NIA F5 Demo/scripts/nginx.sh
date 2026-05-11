@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright IBM Corp. 2021, 2026
+
 
 #Get IP
 local_ipv4="$(curl -s http://169.254.169.254/latest/meta-data/local-ipv4)"

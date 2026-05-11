@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 kubectl delete deployment frontend
 kubectl delete service frontend
 kubectl delete serviceaccount frontend

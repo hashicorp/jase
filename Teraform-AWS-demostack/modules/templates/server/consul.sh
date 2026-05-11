@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright IBM Corp. 2021, 2026
+
 echo "==> Consul (server)"
 if [ ${enterprise} == 0 ]
 then

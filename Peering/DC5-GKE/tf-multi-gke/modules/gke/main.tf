@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # data "google_service_account" "owner_project" {
 #   account_id = var.service_account
 # }

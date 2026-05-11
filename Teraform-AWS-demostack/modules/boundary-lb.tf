@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 
 resource "aws_lb" "boundary-controller" {
    name = "${var.namespace}-boundary-controller"

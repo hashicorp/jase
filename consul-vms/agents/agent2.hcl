@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 node_name = "client-dc2"
 datacenter = "dc1"
 partition = "default"

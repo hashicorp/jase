@@ -38,7 +38,7 @@ This guide describes the following:
 
 The consul.hcl for DC1 will look something like this:
 ```
-# Copyright (c) HashiCorp, Inc.
+# Copyright IBM Corp. 2021, 2026
 # SPDX-License-Identifier: MPL-2.0
 
 # Full configuration options can be found at https://www.consul.io/docs/agent/config

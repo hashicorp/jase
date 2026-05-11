@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 output "F5_IP" {
   value = module.bigip.0.mgmtPublicIP[0]
 }
