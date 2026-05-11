@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 resource "aws_instance" "consul" {
   ami                    = data.aws_ami.ubuntu.id
   instance_type          = "m5.large"

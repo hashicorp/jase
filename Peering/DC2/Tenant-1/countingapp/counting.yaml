@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # Mock Counting Backend
 apiVersion: v1
 kind: Service

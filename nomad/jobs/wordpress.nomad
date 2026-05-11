@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 job "wordpress-server" {
   datacenters = ["dc1"]
   type        = "service"

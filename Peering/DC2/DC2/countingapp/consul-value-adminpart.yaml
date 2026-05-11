@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 global:
 #  image: "hashicorp/consul:1.14.0"
   image: "hashicorp/consul-enterprise:1.14.0-ent"

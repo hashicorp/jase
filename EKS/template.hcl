@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # token= "a5c882f6-02b5-95ea-8698-8189b55abacc"
 template {
   source = "dns.tmpl"

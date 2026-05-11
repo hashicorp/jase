@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright IBM Corp. 2021, 2026
+
 
 kubectl create namespace base
 #kubectl apply -f resources/k8s-yamls/example.yaml -n base

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 module "eks" {
   source          = "terraform-aws-modules/eks/aws"
   cluster_name    = local.cluster_name

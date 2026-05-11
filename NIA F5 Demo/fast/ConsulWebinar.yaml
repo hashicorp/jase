@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 title: Consul Service Discovery
 description: This template will create a virtual server that will use event driven service discovery
 definitions:

@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright IBM Corp. 2021, 2026
+
 # generate sha512 encrypted password
 # check version of openssl
 version=$(openssl version)

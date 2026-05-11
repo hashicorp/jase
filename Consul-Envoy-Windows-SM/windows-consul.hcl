@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 datacenter = "dc1"
 data_dir = "c:/consul/config/data"
 encrypt = "Aej87Duj7rnoIogDACrP0A=="

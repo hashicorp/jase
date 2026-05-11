@@ -1,4 +1,6 @@
 #!/bin/sh
+# Copyright IBM Corp. 2021, 2026
+
 
 ## Install Hashicorp repo
 curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -

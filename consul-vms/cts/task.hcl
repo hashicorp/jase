@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 log_level = "info"
 # working_dir = "sync-tasks"
 

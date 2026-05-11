@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 resource "aws_autoscaling_group" "nginx" {
   name                 = "${var.prefix}-nginx-asg"
   launch_configuration = aws_launch_configuration.nginx.name

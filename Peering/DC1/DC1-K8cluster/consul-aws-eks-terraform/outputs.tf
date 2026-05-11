@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 output "cluster_id" {
   description = "EKS cluster ID."
   value       = module.eks.cluster_id

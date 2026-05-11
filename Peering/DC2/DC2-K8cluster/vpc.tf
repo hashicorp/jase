@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 variable "region" {
   default     = "us-east-2"
   description = "AWS region"

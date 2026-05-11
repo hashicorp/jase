@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 
 resource "aws_security_group" "worker_group_mgmt_one" {
   name_prefix = "worker_group_mgmt_one"

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # data "google_container_cluster" "gke_cluster" {
 #   depends_on = [
 #     google_container_node_pool.primary_nodes,

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 gcp_region = "europe-west1"
 gcp_project = "hc-a2fdf5e57a134960a608bf7e9ce"
 node_type = "n1-standard-2"

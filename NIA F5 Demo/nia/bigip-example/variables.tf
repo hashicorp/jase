@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 variable "services" {
   description = "Consul services monitored by consul-terraform-sync"
   type = map(

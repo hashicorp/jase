@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 # cat file, then copy the output and paste into shell to run mysql Service
 # Install fake-service
 mkdir -p /opt/fake-service

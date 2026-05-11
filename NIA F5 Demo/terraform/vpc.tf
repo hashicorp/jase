@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 module "vpc" {
   source  = "terraform-aws-modules/vpc/aws"
   version = "~> v2.0"

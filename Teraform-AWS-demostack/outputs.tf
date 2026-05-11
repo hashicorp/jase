@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 ////////////////////// Main //////////////////////////
 
 output "A_Welcome_Message" {

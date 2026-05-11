@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 variable "prefix" {
   description = "prefix for resources created"
   default     = "hashi-f5-demo"
